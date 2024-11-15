@@ -1,5 +1,5 @@
 {
-    "name": "demo-sdk",
+    "name": "@prajwalhaniya/demo-sdk",
     "version": "1.0.0",
     "description": "A demo sdk for Building sdk with nodejs and typescript",
     "main": "package/index.js",
